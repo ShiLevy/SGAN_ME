@@ -7,3 +7,7 @@ Levy S., Hunziker J., Laloy E., Irving J., Linde N. under review. Using deep gen
 ## License:
 
 See particular license specifications in folders under license.txt
+
+## Contact:
+
+Shiran Levy (shiran.levy@unil.ch)
