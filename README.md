@@ -21,7 +21,7 @@ This is a python implementation of the SGAN-ME approach presented in "Using deep
 
 ## Citation :
 
-Levy S., Hunziker J., Laloy E., Irving J., Linde N. under review. Using deep generative neural networks to account for model errors in Markov chain Monte Carlo inversion [submitted to Geophysical Journal International on June 2021].
+Shiran Levy, Jürg Hunziker, Eric Laloy, James Irving, Niklas Linde, Using deep generative neural networks to account for model errors in Markov chain Monte Carlo inversion, Geophysical Journal International, Volume 228, Issue 2, February 2022, Pages 1098–1118, https://doi.org/10.1093/gji/ggab391
 
 ## License:
 
