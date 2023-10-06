@@ -1,6 +1,6 @@
 # SGAN-ME
 
-This is a python implementation of the SGAN-ME approach presented in "Using deep generative neural networks to account for model errors in Markov chain Monte Carlo inversion" (submitted to geophysical journal international and currently under review). The folder includes the SGAN network training (*SGAN* folder) and MCMC inversion (*DREAM(ZS)* folder). The *DREAM(ZS)* folder includes two subsurface-model examples (in the paper referred as 1 and 2) for a model error between a finite difference time domain and straight-ray solvers in a ground-penetrating-radar cross-borehole numerical experiment.
+This is a python implementation of the SGAN-ME approach presented in "Using deep generative neural networks to account for model errors in Markov chain Monte Carlo inversion" (published in geophysical journal international). The folder includes the SGAN network training (*SGAN* folder) and MCMC inversion (*DREAM(ZS)* folder). The *DREAM(ZS)* folder includes two subsurface-model examples (in the paper referred as 1 and 2) for a model error between a finite difference time domain and straight-ray solvers in a ground-penetrating-radar cross-borehole numerical experiment.
 
 ## Scripts:
 
